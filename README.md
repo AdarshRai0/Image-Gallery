@@ -1,6 +1,6 @@
 ﻿# Image-Gallery
 
-![screencapture-127-0-0-1-5500-2023-10-31-17_41_03-min](https://github.com/AdarshRai0/Image-Gallery/assets/91651054/ccb8f571-8acb-442c-96fd-3129acf227be)
+![screencapture-127-0-0-1-5500-2023-10-31-17_41_03-min](https://github.com/AdarshRai0/Image-Gallery/assets/91651054/221d522d-1e39-4ec4-9a66-3d2cec06204e)
 
  
 - I learned how to handle user interactions such as clicks and keypresses using event listeners, enhancing the interactivity of my web applications.

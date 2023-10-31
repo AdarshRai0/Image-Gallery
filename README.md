@@ -1,4 +1,8 @@
 ﻿# Image-Gallery
+
+![screencapture-127-0-0-1-5500-2023-10-31-17_41_03-min](https://github.com/AdarshRai0/Image-Gallery/assets/91651054/ccb8f571-8acb-442c-96fd-3129acf227be)
+
+ 
 - I learned how to handle user interactions such as clicks and keypresses using event listeners, enhancing the interactivity of my web applications.
   
 - Mastering the manipulation of the Document Object Model (DOM) allowed me to dynamically change HTML elements, modify styles, and update content, making my applications responsive and engaging.
